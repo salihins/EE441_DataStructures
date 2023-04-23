@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1640207399 source:c:\users\can\desktop\okul\ee4.1\ee441\e2304053_hw2\e2304053_hw2.cpp
+	<iostream>
+	<fstream>
+	<string>
+
